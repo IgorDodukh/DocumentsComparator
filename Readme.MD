@@ -7,9 +7,9 @@ Comparison is performed in pairs. The criteria for similarity: single text line.
 2. Take the content of each file line by line and add them to the list.
 (Separate list for the each file. Separate list item for the each file line.)
 3. Compare two lists with file lines and extract only equal lines.
-4. Take the number of lines from the file which has more lines.
+4. Get the number of lines in the file from pair with more lines.
 5. Calculate the percentage of similarity by formula: 
-> numberOfEqualLines * 100 / numberOfLinesInFileWithMoreLines
+> numberOfEqualLines * 100 / numberOfLinesInLongestFile
 
 ### Example
 If two files contain same number of lines with same content inside they will be 100% equal.
