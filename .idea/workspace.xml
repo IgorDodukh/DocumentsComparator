@@ -1,31 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="826ca4d4-a32b-48d2-ab67-f2f332b071fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DocumentsComparator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DocumentsComparator/META-INF/DocumentsComparator.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DocumentsComparator/main/com/comparator/FileHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DocumentsComparator/main/com/comparator/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DocumentsComparator/main/testFiles/testFile1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DocumentsComparator/main/testFiles/testFile2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DocumentsComparator/main/testFiles/testFile3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DocumentsComparator/main/testFiles/testFile4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DocumentsComparator/main/testFiles/testFile5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/comparator/FileHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/comparator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/testFiles/testFile1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/testFiles/testFile2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/testFiles/testFile3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/testFiles/testFile4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/testFiles/testFile5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/testFiles/testFile9.txt" afterDir="false" />
+    <list default="true" id="826ca4d4-a32b-48d2-ab67-f2f332b071fb" name="Default Changelist" comment="Initial commit.">
+      <change afterPath="$PROJECT_DIR$/src/main/testFiles/testFile10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/testFiles/testFile6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/testFiles/testFile7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/testFiles/testFile8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentsComparator/main/com/comparator/FileHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DocumentsComparator/main/com/comparator/FileHandler.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,16 +30,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Readme.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <first_editor relative-caret-position="289">
+                <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/testFiles/testFile6.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/testFiles/testFile7.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/testFiles/testFile8.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/testFiles/testFile9.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/testFiles/testFile10.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -114,6 +133,10 @@
         <option value="$PROJECT_DIR$/src/main/testFiles/testFile3.txt" />
         <option value="$PROJECT_DIR$/src/main/com/comparator/FileHandler.java" />
         <option value="$PROJECT_DIR$/Readme.MD" />
+        <option value="$PROJECT_DIR$/src/main/testFiles/testFile6.txt" />
+        <option value="$PROJECT_DIR$/src/main/testFiles/testFile7.txt" />
+        <option value="$PROJECT_DIR$/src/main/testFiles/testFile8.txt" />
+        <option value="$PROJECT_DIR$/src/main/testFiles/testFile10.txt" />
       </list>
     </option>
   </component>
@@ -178,7 +201,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549791951515" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549792875657" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -273,16 +296,23 @@
       <workItem from="1549656691964" duration="1440000" />
       <workItem from="1549707416251" duration="2149000" />
       <workItem from="1549751402601" duration="10021000" />
-      <workItem from="1549788717910" duration="3799000" />
+      <workItem from="1549788717910" duration="4131000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <created>1549792617531</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549792617531</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17409000" />
+    <option name="totallyTimeSpent" value="17741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="1" />
@@ -293,8 +323,8 @@
       <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.18763326" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33586133" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5048754" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33586133" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5048754" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -318,6 +348,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -340,9 +374,6 @@
     <entry file="file://$PROJECT_DIR$/files/testFile2.txt" />
     <entry file="file://$PROJECT_DIR$/files/testFile1.txt" />
     <entry file="file://$PROJECT_DIR$/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/src/main/testFiles/testFile9.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/testFiles/testFile5.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -402,12 +433,39 @@
     <entry file="file://$PROJECT_DIR$/Readme.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <first_editor relative-caret-position="289">
+            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/testFiles/testFile6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/testFiles/testFile7.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/testFiles/testFile8.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/testFiles/testFile9.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/testFiles/testFile10.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
